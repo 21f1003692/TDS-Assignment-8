@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run greatest.py
+web: sh setup.sh && streamlit run app.py
